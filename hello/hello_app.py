@@ -6,7 +6,7 @@ def hello():
     return ""<html>
 <head></head>
 <body>
-	<H2><u>Mini Project Software Configuration Management MCS1044</u></H2></p>
+	<p><u>Mini Project Software Configuration Management MCS1044</u></p>
 	<p><i><ul>Group Members:</i>
 		<li>Marziah Abdul Wahab KCS15001 </li>
 		<li>Nor Faradilla Mohamed Idris KCS15002 </li>
