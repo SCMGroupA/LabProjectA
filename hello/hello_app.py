@@ -7,13 +7,11 @@ def hello():
 <head></head>
 <body>
 	<p><u>Mini Project Software Configuration Management MCS1044</u></p>
-	<p><i><ul>Group Members:</i>
-		<li>Marziah Abdul Wahab KCS15001 </li>
-		<li>Nor Faradilla Mohamed Idris KCS15002 </li>
-		<li>Sarina Abu Bakar KCS15004 </li>
-		<li>Suhaimi Saad KCS15007 </li>
-	</ul>
-	</p>
+	<p><i>Group Members:</i></p>
+		<p>Marziah Abdul Wahab KCS15001 </p>
+		<p>Nor Faradilla Mohamed Idris KCS15002 </p>
+		<p>Sarina Abu Bakar KCS15004 </p>
+		<p>Suhaimi Saad KCS15007 </p>
 </body>
 </html>""
 
