@@ -3,10 +3,20 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return """"<html>
+    return "<html>
 <head></head>
-<body><p><b>Hello World!</b></p></body>
-</html>"""
+<body>
+	<H2><u>Mini Project Software Configuration Management MCS1044</u></H2></p>
+	<p><i><ul>Group Members:</i>
+		<li>Marziah Abdul Wahab KCS15001 </li>
+		<li>Nor Faradilla Mohamed Idris KCS15002 </li>
+		<li>Sarina Abu Bakar KCS15004 </li>
+		<li>Suhaimi Saad KCS15007 </li>
+	</ul>
+	</p>
+
+</body>
+</html>"
 
 
 if __name__ == "__main__":
