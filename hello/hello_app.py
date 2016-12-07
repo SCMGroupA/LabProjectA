@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<html>
+    return ""<html>
 <head></head>
 <body>
 	<H2><u>Mini Project Software Configuration Management MCS1044</u></H2></p>
@@ -14,9 +14,8 @@ def hello():
 		<li>Suhaimi Saad KCS15007 </li>
 	</ul>
 	</p>
-
 </body>
-</html>"
+</html>""
 
 
 if __name__ == "__main__":
