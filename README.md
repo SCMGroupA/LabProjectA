@@ -1,4 +1,4 @@
-heroku-cd
+﻿heroku-cd
 =========
 
 This project is an example of an application that can be continuously delivered to Heroku through a pipeline based on staging and production environments.
@@ -31,3 +31,6 @@ This project implements continuous delivery with a pipeline based on “staging�
 * [Testing Flask Applications](http://flask.pocoo.org/docs/testing/) from the Flask docs
 * [The nose documentation](https://nose.readthedocs.org/en/latest/) for more information about the nose test runner
 * [Continuous Deployment with Heroku](https://circleci.com/docs/continuous-deployment-with-heroku) from the CircleCI docs.
+
+
+enable editing
